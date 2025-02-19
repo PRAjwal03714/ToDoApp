@@ -54,7 +54,6 @@ The app should now be running at `http://localhost:3000`.
 - Add due dates and task completion tracking.
 - Implement user authentication for personalized tasks.
 - Allow file attachments for tasks.
+![image](https://github.com/user-attachments/assets/959ec3e9-c82c-42d7-ad53-4bce46a4dc1d)
 
-## License
-This project is licensed under the MIT License.
 
